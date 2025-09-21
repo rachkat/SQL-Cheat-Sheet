@@ -1,4 +1,4 @@
-# SQL Cheat Sheet (GitHub-Ready)
+# SQL Cheat Sheet 
 
 A concise, practical reference for everyday SQL. Examples are ANSI-SQL first, with notes for Postgres (PG), MySQL (MY), and SQL Server (SSMS).
 
